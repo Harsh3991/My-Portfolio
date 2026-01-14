@@ -21,3 +21,6 @@ A brief description of your project and its purpose.
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
+2. Navigate into the project directory:
+   ```bash
+   cd repository
