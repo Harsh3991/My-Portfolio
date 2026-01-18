@@ -20,7 +20,11 @@ A brief description of your project and its purpose.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Harsh3991/My-Portfolio.git
 2. Navigate into the project directory:
    ```bash
-   cd repository
+   cd My-Portfolio
+2. install dependencies:
+   ```bash
+   npm i
+         
