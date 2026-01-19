@@ -24,7 +24,7 @@ A brief description of your project and its purpose.
 2. Navigate into the project directory:
    ```bash
    cd My-Portfolio
-2. install dependencies:
+3. install dependencies:
    ```bash
    npm i
          
